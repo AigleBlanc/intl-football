@@ -1,0 +1,61 @@
+Country,Region,Region Code
+Senegal,Africa,AF1
+Tunisia,Africa,AF1
+Algeria,Africa,AF1
+Morocco,Africa,AF1
+Nigeria,Africa,AF1
+Egypt,Africa,AF2
+Ghana,Africa,AF2
+Ivory Coast,Africa,AF2
+Cameroon,Africa,AF2
+Mali,Africa,AF2
+Burkina Faso,Africa,AF3
+Congo DR,Africa,AF3
+South Africa,Africa,AF3
+Guinea,Africa,AF3
+Cabo Verde,Africa,AF3
+Belgium,Europe,EU1
+England,Europe,EU1
+France,Europe,EU1
+Italy,Europe,EU1
+Portugal,Europe,EU1
+Spain,Europe,EU2
+Denmark,Europe,EU2
+Netherlands,Europe,EU2
+Germany,Europe,EU2
+Switzerland,Europe,EU2
+Croatia,Europe,EU3
+Sweden,Europe,EU3
+Wales,Europe,EU3
+Poland,Europe,EU3
+Ukraine,Europe,EU3
+Brazil,South America,SA1
+Argentina,South America,SA1
+Uruguay,South America,SA1
+Columbia,South America,SA1
+Peru,South America,SA1
+Chile,South America,SA2
+Paraguay,South America,SA2
+Venezuala,South America,SA2
+Ecuador,South America,SA2
+Bolivia,South America,SA2
+Mexico,North America,NA1
+USA,North America,NA1
+Costa Rica,North America,NA1
+Canada,North America,NA1
+Jamaica,North America,NA1
+Honduras,North America,NA2
+El Salvador,North America,NA2
+Panama,North America,NA2
+Curucao,North America,NA2
+Haiti,North America,NA2
+Iran,Asia,AS1
+Japan,Asia,AS1
+Australia,Asia,AS1
+Korea Republic,Asia,AS1
+Qatar,Asia,AS1
+Saudi Arabia,Asia,AS2
+United Arab Emirates,Asia,AS2
+Iraq,Asia,AS2
+China,Asia,AS2
+Oman ,Asia,AS2
